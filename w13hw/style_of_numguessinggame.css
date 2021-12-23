@@ -1,0 +1,31 @@
+body{
+	display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+div{
+	border-width: 10px;
+	text-align: center;
+}
+.all{
+	background-color: lavender;
+	border-width: 10px;
+	text-align: center;
+	width: 300px;
+	height: 600px;
+	vertical-align: middle;
+	border-color: greenyellow;
+	font-family: monospace;, Comic Sans, cursive;
+}
+.result{
+	align-items: center;
+	color: rgb(100, 0, 0);
+	
+}
+
+
+span{
+	background-color: violet;
+	text-align: center;
+	border-width:10px;
+}
